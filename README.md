@@ -8,6 +8,10 @@
 ## Начало работы
 [- Скачать приложение KrooGen для Android](https://drive.google.com/file/d/1UXtC5z-WjgN5MeNPyyOFDG_vuUvugHlG/view)
 
+[- Иллюстрация 1](https://github.com/kroobeet/kroogen/images/1.jpg)
+[- Иллюстрация 2](https://github.com/kroobeet/kroogen/images/2.jpg)
+[- Иллюстрация 3](https://github.com/kroobeet/kroogen/images/3.jpg)
+
 ### Функционал
 - Генерация названий из двух слов
 
