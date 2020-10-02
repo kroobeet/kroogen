@@ -6,7 +6,7 @@
 Версия для iOS находится на стадии разработки
 
 ## Начало работы
-[Скачать приложение KrooGen для Android][https://drive.google.com/file/d/1UXtC5z-WjgN5MeNPyyOFDG_vuUvugHlG/view]
+[Скачать приложение KrooGen для Android] [https://drive.google.com/file/d/1UXtC5z-WjgN5MeNPyyOFDG_vuUvugHlG/view]
 
 ### Функционал
 - Генерация названий из двух слов
