@@ -1,16 +1,16 @@
 # kroogen
 
-A new Flutter project.
+Приложение для генерации названий из слов
 
-## Getting Started
+Пока что доступна только Android версия
+Версия для iOS находится на стадии разработки
 
-This project is a starting point for a Flutter application.
+## Начало работы
+[Скачать приложение KrooGen для Android][https://drive.google.com/file/d/1UXtC5z-WjgN5MeNPyyOFDG_vuUvugHlG/view]
 
-A few resources to get you started if this is your first Flutter project:
+### Функционал
+- Генерация названий из двух слов
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+#### Будущий функционал
+- Возможность добавления названий в Избранное
+- Установка своего количества слов в генерируемом названии (до 5)
